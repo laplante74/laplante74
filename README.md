@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven LaPlante</h1>
-<h3 align="center">An infrastructure guy learning more about the Cloud and DevOps</h3>
+<h3 align="center">A recovering data center infrastructure guy mastering the cloud and learning some devops</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laplante74&label=Profile%20views&color=0e75b6&style=flat" alt="laplante74" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
